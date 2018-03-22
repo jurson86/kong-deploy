@@ -55,6 +55,8 @@
    > select * from pg_shadow ;  
    > \q
    
+主备    构建：  [https://my.oschina.net/Suregogo/blog/551626](https://my.oschina.net/Suregogo/blog/551626)
+高可用构建： [https://my.oschina.net/Suregogo/blog/552765](https://my.oschina.net/Suregogo/blog/552765)
    
 ## Kong 安装
 
