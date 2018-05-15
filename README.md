@@ -122,6 +122,13 @@ Kong started
 
 
 
+### Kong 演示示例
+<pre>
+#  导入 POSTMAN 包  
+包内容在文件夹： postman-demo  中
+</pre>
+
+
 
 
 
