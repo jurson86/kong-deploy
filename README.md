@@ -63,6 +63,9 @@
 ### 条件  
     安装包：  kong-community-edition-0.12.3.el7.noarch.rpm
     下载地址：  https://getkong.org/install
+                https://kong.bintray.com/kong-community-edition-rpm/
+                https://pan.baidu.com/s/1NPixg7b98HWTQx7rK9gjfg
+                
 
 
 ### 安装步骤  
