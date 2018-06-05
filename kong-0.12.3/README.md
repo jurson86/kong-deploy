@@ -65,7 +65,7 @@
     下载地址：  https://getkong.org/install
                 https://kong.bintray.com/kong-community-edition-rpm/
                 https://pan.baidu.com/s/1NPixg7b98HWTQx7rK9gjfg
-                
+    源码安装： https://github.com/Kong/kong/issues/3504
 
 
 ### 安装步骤  
